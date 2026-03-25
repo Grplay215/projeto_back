@@ -22500,7 +22500,7 @@ var listaDeEstados = {
     ]
 }
 
-module.exports ={
+export {
 
    listaDeEstados
    
